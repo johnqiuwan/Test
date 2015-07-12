@@ -1,1 +1,1 @@
-<? echo 'Yet Another Hello World'; ?>
+<? echo 'Yet Another Hello World2'; ?>
